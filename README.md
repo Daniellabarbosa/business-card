@@ -1,6 +1,7 @@
 # BUSINESS-CARD-DIO-BOOTCAMP
 💻 Sobre o projeto:
-App "BUSINESS CARD" onde é possívels criar e personalizar catões de visita. Desenvolvido em Kotlin o projeto faz parte do Bootcamp Mobile Developer da plataforma de ensino DIO- Digital Inovation One.
+
+"BUSINESS CARD" é um App para a criação de cartões de visita personalizados. Desenvolvido em Kotlin o projeto faz parte do Bootcamp Mobile Developer da plataforma de ensino DIO- Digital Inovation One.
 
 ⚙️Funcionalidades:
 Criação de cartões de visita personalizados com escolha de cores, nome, e-mail, telefone e nome da empresa. O aplicativo também possui a opção de compartilhamento (share).
